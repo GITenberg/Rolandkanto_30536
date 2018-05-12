@@ -1,0 +1,32 @@
+_repo: Rolandkanto_30536
+_version: 0.1.0
+alternative_title: Chanson de Roland. Esperanto
+contributor:
+  translator:
+    agent_name: Noël, Eugène
+    alias: Noel, Eugene
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '34660'
+    url: http://www.gutenberg.org/2009/agents/34660
+    wikipedia: http://eo.wikipedia.org/wiki/Eug%C3%A8ne_No%C3%ABl
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2009-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30536'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcsh 'Roland (Legendary character) -- Romances'
+- !lcsh 'Epic poetry, French -- Translations into Esperanto'
+title: Rolandkanto
+url: http://www.gutenberg.org/ebooks/30536
